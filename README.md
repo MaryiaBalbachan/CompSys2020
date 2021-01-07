@@ -24,3 +24,9 @@ Feeder (Outsourced manufacturing: 12V relay (from a Ford Focus), Copper bar, pen
 Mains Double Socket 
 230V Mains Supply
 Model Chicken House (outsourced manufacturing: 6mm plywood)
+
+
+Video Link Part 1: https://youtu.be/O1kwuUSFJ7k
+Video Link Part 2: https://youtu.be/rVCHp6aCZSM
+Glitch Website: https://chicken-coop.glitch.me/ (extra simple, solely for demo purposes)
+
